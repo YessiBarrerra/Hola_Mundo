@@ -1,0 +1,1 @@
+select * from impo where pedimento='12 3442 43234221333'
